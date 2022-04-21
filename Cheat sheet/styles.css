@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ghostwhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: teal;
+}
+
+table {
+    border: 2px solid darkslategray;
+    width: 700px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: mediumaquamarine;
+}
+
+td {
+    border-top: 1px solid darkslategray;
+}
+
+.code {
+    font-family: monospace;
+    background-color: lightyellow;
+}
